@@ -1,0 +1,21 @@
+.content {
+    padding: 30px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    height: 552px;
+}
+
+.content h1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.content p {
+    margin-bottom: 6px;
+}
+
+.content p.author {
+    margin-left: 20px;
+    margin-right: 20px;
+}
